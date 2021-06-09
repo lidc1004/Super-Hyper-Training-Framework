@@ -163,7 +163,7 @@ def main():
 
     torch.distributed.barrier() if args.distributed else None
     # load model
-    _print("Loading Network: SpeedNet\n Total Epoch: 400\n", local_rank)
+    _print("Loading Network: slowfast \n", local_rank)
     model = resnet50(class_num = 400)
     # load pretrained model
     model = init.load_pretrained_model(model, local_rank, args.model_path) if args.load_checkpoint else model
