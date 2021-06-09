@@ -38,16 +38,16 @@
 │
 ├─Result
 │      saved_model
-|      SumWriter
+│      SumWriter
 │
 ├─Tools
-|      args.py
-|      init.py
-|      utils.py
-|      data.py
-|
+│      args.py
+│      init.py
+│      utils.py
+│      data.py
+│
 ├─train.py
-|
+│
 ```
 
 > train.py为模型训练主程式；
