@@ -4,7 +4,7 @@
 
 
 
-#### For Chinese Version, Please refer the file : [**README.md**](README.md)
+#### For Chinese Version, Please refer the file : [**README-中文.md**](README-中文.md)
 
 
 
@@ -40,16 +40,16 @@ The framework consists of the following simplified folders and files：
 │
 ├─Result
 │      saved_model
-|      SumWriter
+│      SumWriter
 │
 ├─Tools
-|      args.py
-|      init.py
-|      utils.py
-|      data.py
-|
+│      args.py
+│      init.py
+│      utils.py
+│      data.py
+│
 ├─train.py
-|
+│
 ```
 
 > train.py -> which enable the training, also the main program；
