@@ -1,0 +1,11 @@
+apex==0.1
+future==0.18.2
+numpy==1.19.2
+opencv-python==4.4.0.44
+Pillow==7.2.0
+prefetch-generator==1.0.1
+ptflops==0.6.2
+thop==0.0.31.post2005241907
+torch==1.6.0
+torchvision==0.7.0
+tqdm==4.49.0
